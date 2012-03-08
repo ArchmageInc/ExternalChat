@@ -1,0 +1,11 @@
+name: ExternalChat
+main: com.archmageinc.ExternalChat.ExternalChat
+version: 0.5
+description: Allows external communication through a web service
+commands:
+  private:
+    description: Set chat mode to private
+    usage: usage is /private
+  public:
+    description: Set chat mode to public
+    usage: usage is /public

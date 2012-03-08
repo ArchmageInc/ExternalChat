@@ -1,0 +1,7 @@
+show_death: true
+death_name: 'Humiliator'
+chat_delay: 3000
+clean_delay: 30000
+clean_age: 45000
+chat_file: 'map/inChat.json'
+player_file: 'map/players.json'
